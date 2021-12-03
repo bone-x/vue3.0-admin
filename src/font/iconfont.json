@@ -1,0 +1,37 @@
+{
+  "id": "2977051",
+  "name": "hero",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11175683",
+      "name": "收起",
+      "font_class": "shouqi1",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "12292346",
+      "name": "侧边收起1",
+      "font_class": "cebianshouqi",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "3232534",
+      "name": "011剑",
+      "font_class": "jian",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "14137676",
+      "name": "王者竞技擂台",
+      "font_class": "wangzhejingjileitai",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    }
+  ]
+}
